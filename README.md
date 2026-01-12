@@ -1,6 +1,7 @@
 ## Hi, I am Saroj 👋
 
 I am an Electrical and Electronics Engineer based in Darwin, Australia.
+I graduated from Charles Darwin University, Darwin in December 2025.
 
 Technical Skills: 
 • Microsoft Office Package 
