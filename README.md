@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I am Saroj 👋
 
-<!--
-**khanal-saroj/khanal-saroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical and Electronics Engineer based in Darwin, Australia.
 
-Here are some ideas to get you started:
+Technical Skills: 
+• Microsoft Office Package 
+• Auto CAD Electrical
+• Python and (Data Science) 
+• MATLAB (system simulation) 
+• Printed Circuit Board (PCB) Design in web based 
+• Electronic Circuit Simulation (PSpice, LabVIEW) 
+• Energy system modelling (TRNSYS, Homer, LCA) 
+• AroFlo, Avtick, HZDT-I and assets management software competency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
